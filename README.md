@@ -33,7 +33,7 @@ n_hos_beds: the number of hospital beds per 1,000 population in the town
 
 n_hot_rooms: the number of hotel rooms per 1,000 population in the town
 
-water_body : what type of natural fresh water source is there in the city?(lake, river, both, none)
+waterbody : what type of natural fresh water source is there in the city?(lake, river, both, none)
 
 rainfall: the yearly average rainfall in centimeters
 

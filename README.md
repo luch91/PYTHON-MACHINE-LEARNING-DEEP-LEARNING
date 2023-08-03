@@ -42,7 +42,7 @@ bus_ter : is there a bus terminal in the city?(Yes/No)
 parks: proportions of lands assigned as parks and green area in the town.
 
 
-Observations:
+## Observations:
 
 1. missing values in n_hos_beds
 
